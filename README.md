@@ -11,5 +11,5 @@ const amountInWords = inWordsBn(amount);
 console.log(amountInWords); // বার হাজার তিনশত পঁয়ষট্টি টাকা পঁচিশ পয়সা মাত্র।
 ```
 
-##Credits
+## Credits
 All credit for this code goes to https://github.com/mijaved/. Thank you for providing such a useful utility!
