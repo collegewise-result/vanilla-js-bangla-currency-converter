@@ -12,4 +12,5 @@ console.log(amountInWords); // বার হাজার তিনশত পঁ�
 ```
 
 ## Credits
+The code has been taken from https://github.com/mijaved/jsUtil/blob/master/AmountInWord/amountInWord_bn.js, I have only made a small modification to include paisa.
 All credit for this code goes to https://github.com/mijaved/. Thank you for providing such a useful utility!
